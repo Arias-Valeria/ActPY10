@@ -1,0 +1,1 @@
+Insert into autores (id_autor, nombre, apellido_paterno) VALUES (2, 'Paul', 'Deitel');
